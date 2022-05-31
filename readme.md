@@ -1,6 +1,7 @@
 # [Hello](https://www.python.org/)
 
-![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Sjoe-Yamato&data=followers,repositories,stars,commits)
+![image](https://github.com/Sjoe-Yamato/Sjoe-Yamato/blob/main/.github/workflows/SJOE-ASCILL.png)
+
 
 
 😄I'm Sjoe, _a impressionism data artist_.
@@ -11,6 +12,7 @@
 
 
 ## I'm interested in...
+![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Sjoe-Yamato&data=followers,repositories,stars,commits)
 
   <img alt="Python" src="https://img.shields.io/badge/-Python-DD0031?style=flat-square&logo=python&logoColor=white" />  <img alt="html5" src="https://img.shields.io/badge/-HTML5-CB3837?style=flat-square&logo=html5&logoColor=white" />
   <img alt="d3js" src="https://img.shields.io/badge/-D3.js-E34F26?style=flat-square&logo=d3.js&logoColor=white" />
