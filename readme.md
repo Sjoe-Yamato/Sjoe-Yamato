@@ -12,8 +12,7 @@
 
 ## I'm interested in...
 
-  <img alt="Python" src="https://img.shields.io/badge/-Python-DD0031?style=flat-square&logo=python&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-CB3837?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-DD0031?style=flat-square&logo=python&logoColor=white" />  <img alt="html5" src="https://img.shields.io/badge/-HTML5-CB3837?style=flat-square&logo=html5&logoColor=white" />
   <img alt="d3js" src="https://img.shields.io/badge/-D3.js-E34F26?style=flat-square&logo=d3.js&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="R" src="https://img.shields.io/badge/-R-F9A03C?style=flat-square&logo=r&logoColor=white" />
