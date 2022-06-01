@@ -31,7 +31,11 @@
 
 ## Some worth seeing webs in this digital age...
 ### Tools
+[Remove Image Background](https://www.remove.bg/)
+
 [Coverview](https://coverview.vercel.app/) 
+
+[The Open Source Shopify Alternative](https://medusajs.com/)
 
 [Song-Maker](https://musiclab.chromeexperiments.com/Song-Maker)
 
