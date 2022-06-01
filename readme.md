@@ -31,14 +31,68 @@
 
 ## Some worth seeing webs in this digital age...
 ### Tools
-[coverview](https://coverview.vercel.app/)  
+[Coverview](https://coverview.vercel.app/) 
 
-### Music
-[poolsuite](https://poolsuite.net/)
+[Song-Maker](https://musiclab.chromeexperiments.com/Song-Maker)
 
-### Advise
+[Ready to live all your cartoon dreams at a time?](https://toonme.com/)
+
+[Squoosh](https://squoosh.app/)
+
+[AI Enhancer, For Better Image Color](https://imglarger.com/Enhancer)
+
+[Beautiful coding](https://chalk.ist/)
+
+[Looooooooooooooooooooooonger](https://ooooooooooooooooooooooo.ooo/)
+
+[Pika](https://pika.style/)
+
+[Readme-ascii](https://readme-ascii.herokuapp.com/)
+
+[GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+
+[Make your own grid paper with Gridzzly](http://www.gridzzly.com/)
+
+### Advise/skill
+[How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html)
+
+[Protobot generates random product and service ideas](https://protobot.org/)
+
+[Where X=Python](https://learnxinyminutes.com/docs/python/)
+
 [103 Bits of Advice I Wish I Had Known](https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/)
 
+[Unequalscenes](https://unequalscenes.com/)
+
+[Datavizproject](https://datavizproject.com/)
+
+[Tiktok style text maker](https://goonlinetools.com/tiktok-style-text-maker/)
+
+[Explore World](https://www.explordle.com/map/wor)
+
+[Dimensions.com](Dimensions.com)
+
+[Sharkle](https://sharkle.com/)
+
+
+### Funny database
+[steamDB](https://steamdb.info/)
+
+[STEAM & GAME STATS](https://store.steampowered.com/stats)
+
+[[IMAGE DATABASE]graviti](https://gas.graviti.cn/open-datasets)
+
+[IPC Historical Results Archive](https://db.ipc-services.org/sdms/hira/web/index)
+
+[Our Worldin Data](https://ourworldindata.org/grapher/athletes-in-olympics?time=earliest..2016&country=~OWID_WRL)
+
+
+## Gallery
+[OldNYC Mapping historical photos from the NYPL](https://www.oldnyc.org/)
+
+[Chromeography](https://www.clicktorelease.com/code/codevember-2017/chromeography/)
+
+[Species-in-pieces](http://species-in-pieces.com/#)
 
 
 ## Thanks for watching :D
