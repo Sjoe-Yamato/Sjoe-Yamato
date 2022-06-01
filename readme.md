@@ -1,10 +1,10 @@
-# [Hello](https://www.python.org/)
+# [Hello](https://sjoe.hashnode.dev )
 
 ![image](https://github.com/Sjoe-Yamato/Sjoe-Yamato/blob/main/.github/workflows/SJOE-ASCILL.png)
 
 
 
-😄I'm Sjoe, _a impressionism data artist_.
+😄I'm [Sjoe](https://sjoe.hashnode.dev ), _a impressionism data artist_.
 
 🌱I'm learning data visualization and data mining with using Python or R.
 
