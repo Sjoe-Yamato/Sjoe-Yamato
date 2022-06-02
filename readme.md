@@ -78,7 +78,13 @@
 
 [Sharkle](https://sharkle.com/)
 
+[What is an Infographic? Examples, Templates & Design Tips](https://venngage.com/blog/what-is-an-infographic/)
+
 [RStudio Cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
+
+[ggplot2: elegant graphics for data analysis](https://ggplot2-book.org/)
+
+[Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/)
 
 ### Funny database
 [steamDB](https://steamdb.info/)
