@@ -60,6 +60,8 @@
 [DataWrapper:create a visualization for blind](https://www.datawrapper.de/)
 
 ### Advise/skill
+[Everything you need to know about the “Right to be forgotten”](https://gdpr.eu/right-to-be-forgotten/)
+
 [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html)
 
 [Protobot generates random product and service ideas](https://protobot.org/)
