@@ -57,6 +57,8 @@
 
 [Make your own grid paper with Gridzzly](http://www.gridzzly.com/)
 
+[DataWrapper:create a visualization for blind](https://www.datawrapper.de/)
+
 ### Advise/skill
 [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html)
 
@@ -86,6 +88,8 @@
 
 [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/)
 
+[Pantone Color of the Year](https://www.pantone.com/hk/en/articles/past-colors-of-the-year)
+
 ### Funny database
 [steamDB](https://steamdb.info/)
 
@@ -95,7 +99,7 @@
 
 [IPC Historical Results Archive](https://db.ipc-services.org/sdms/hira/web/index)
 
-[Our Worldin Data](https://ourworldindata.org/grapher/athletes-in-olympics?time=earliest..2016&country=~OWID_WRL)
+[Our World in Data](https://ourworldindata.org/grapher/athletes-in-olympics?time=earliest..2016&country=~OWID_WRL)
 
 
 ## Gallery
