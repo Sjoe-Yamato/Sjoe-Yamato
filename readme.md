@@ -93,6 +93,8 @@
 [Pantone Color of the Year](https://www.pantone.com/hk/en/articles/past-colors-of-the-year)
 
 ### Funny database
+[World Bank Open Data](https://data.worldbank.org/)
+
 [steamDB](https://steamdb.info/)
 
 [STEAM & GAME STATS](https://store.steampowered.com/stats)
