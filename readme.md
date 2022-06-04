@@ -92,7 +92,7 @@
 
 [Pantone Color of the Year](https://www.pantone.com/hk/en/articles/past-colors-of-the-year)
 
-[What are 20 questions to detect fake data scientists? The answers should contain math formulas or a few lines of code, not just vague generalizations.](https://www.quora.com/What-are-20-questions-to-detect-fake-data-scientists)
+[What are 20 questions to detect fake data scientists?](https://www.quora.com/What-are-20-questions-to-detect-fake-data-scientists)
 
 ### Funny database
 [World Bank Open Data](https://data.worldbank.org/)
