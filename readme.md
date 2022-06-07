@@ -110,9 +110,17 @@
 [Our World in Data](https://ourworldindata.org/grapher/athletes-in-olympics?time=earliest..2016&country=~OWID_WRL)
 
 ## Gallery
+[Information is Beautiful](https://informationisbeautiful.net/)
+
+[Gallery / D3 / Observable](https://observablehq.com/@d3/gallery)
+
+[Mike Bostock](https://bost.ocks.org/mike/)
+
 [OldNYC Mapping historical photos from the NYPL](https://www.oldnyc.org/)
 
 [Chromeography](https://www.clicktorelease.com/code/codevember-2017/chromeography/)
+
+[Awwwards](https://www.awwwards.com/)
 
 [OCEARCH](https://www.ocearch.org/tracker/)
 
