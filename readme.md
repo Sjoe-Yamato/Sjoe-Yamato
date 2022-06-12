@@ -59,6 +59,21 @@
 
 [DataWrapper:create a visualization for blind](https://www.datawrapper.de/)
 
+[Tiktok style text maker](https://goonlinetools.com/tiktok-style-text-maker/)
+
+### Color
+[Color Hunt - Color Palettes for Designers and Artists](https://colorhunt.co/)
+
+[Color Leap - History's Palettes Take a leap through time and see the colors of history.](https://colorleap.app/home)
+
+[Trending Color Palettes - Coolors](https://coolors.co/palettes/trending)
+
+[Palettable](https://www.palettable.io/)
+
+[中国色 ZHONGGUOSE](http://zhongguose.com/)
+
+[NIPPON COLORS - 日本の伝統色](https://nipponcolors.com/)
+
 ### Advise/skill
 [Everything you need to know about the “Right to be forgotten”](https://gdpr.eu/right-to-be-forgotten/)
 
@@ -73,8 +88,6 @@
 [Unequalscenes](https://unequalscenes.com/)
 
 [Datavizproject](https://datavizproject.com/)
-
-[Tiktok style text maker](https://goonlinetools.com/tiktok-style-text-maker/)
 
 [Explore World](https://www.explordle.com/map/wor)
 
