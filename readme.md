@@ -62,6 +62,8 @@
 [Tiktok style text maker](https://goonlinetools.com/tiktok-style-text-maker/)
 
 ### Color
+[Goodpalette](https://goodpalette.io/b04c1e-2bed68-b8b1ae)
+
 [Color Hunt - Color Palettes for Designers and Artists](https://colorhunt.co/)
 
 [Color Leap - History's Palettes Take a leap through time and see the colors of history.](https://colorleap.app/home)
