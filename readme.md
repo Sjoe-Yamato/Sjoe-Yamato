@@ -61,6 +61,8 @@
 
 [Tiktok style text maker](https://goonlinetools.com/tiktok-style-text-maker/)
 
+[musicForProgramming();](https://musicforprogramming.net/latest/)
+
 ### Color
 [Goodpalette](https://goodpalette.io/b04c1e-2bed68-b8b1ae)
 
