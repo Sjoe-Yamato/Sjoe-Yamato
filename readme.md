@@ -157,6 +157,8 @@
 
 [Discover Classical Art Browse and download high-resolution, public domain artworks.](https://artvee.com/)
 
+[CodePen Home Pure CSS Woman Wearing Face Mask](https://codepen.io/AsyrafHussin/pen/LYdPOoG)
+
 [Awwwards](https://www.awwwards.com/)
 
 [OCEARCH](https://www.ocearch.org/tracker/)
