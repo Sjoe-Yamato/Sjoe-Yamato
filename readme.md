@@ -31,6 +31,14 @@
 
 ## Some worth seeing webs in this digital age...
 ### Tools
+[Rawgraphs](https://www.rawgraphs.io/)
+
+[Create Bespoke Chart Designs without Programming](https://charticulator.com/)
+
+[JavaScript Charts & Maps](https://www.amcharts.com/)
+
+[DALL-E-mini](https://wandb.ai/dalle-mini/dalle-mini/reports/DALL-E-mini-Generate-Images-from-Any-Text-Prompt--VmlldzoyMDE4NDAy)
+
 [Remove Image Background](https://www.remove.bg/)
 
 [Coverview](https://coverview.vercel.app/) 
